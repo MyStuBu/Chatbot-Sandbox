@@ -1,7 +1,11 @@
 class BotCollection:
     bot_configurations = {
         '1': 'flan_t5-xxl_instructor-xl_faiss.json',
-        '2': 'open_ai_all-minilm-l6-v2_faiss.json'
+        '2': 'open_ai_all-minilm-l6-v2_faiss.json',
+        '3': 'mistral_7b_instruct.json',
+        '4': 'mistral_7b_v0.1.json',
+        '5': 'openhermes_2_mistral_7b.json',
+        '6': 'zephyr_7b_alpha.json',
     }
 
     def select_bot(self):
