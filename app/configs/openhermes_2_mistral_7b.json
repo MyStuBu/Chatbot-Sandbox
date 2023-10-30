@@ -1,6 +1,6 @@
 {
     "language_model": {
-        "model_name": "mistralai/Mistral-7B-Instruct-v0.1",
+        "model_name": "teknium/OpenHermes-2-Mistral-7B",
         "strategy": "HuggingFaceHubLanguageModelStrategy"
     },
     "embeddings": {

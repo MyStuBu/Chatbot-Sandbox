@@ -1,6 +1,6 @@
 {
     "language_model": {
-        "model_name": "mistralai/Mistral-7B-Instruct-v0.1",
+        "model_name": "HuggingFaceH4/zephyr-7b-alpha",
         "strategy": "HuggingFaceHubLanguageModelStrategy"
     },
     "embeddings": {
